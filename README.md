@@ -8,7 +8,7 @@
 
 -My College Website.
 
-☁️ Experience with AWS (EC2, S3), Oracle DB, MySQL, MongoDB.
+☁️ Experience with AWS (EC2, S3), MySQL, MongoDB.
 
 🔧 Tech Stack: Python, Flask, Node.js, TensorFlow, React, MySQL, MongoDB
 
